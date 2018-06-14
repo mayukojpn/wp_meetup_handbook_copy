@@ -1,7 +1,7 @@
-Responding to Code of Conduct Violations
+行動規範の違反への対応
 ========================================
 
-We wish it would never happen, but sometimes as organizers we have to respond to bad behavior at our events. If you see or hear about any behavior that is making the event less welcoming or more intolerant, then please take the following steps:
+決して起こってほしくないことですが、時には主催者としてイベントにおける良くない言動に対応しなくてはなりません。もしイベントにおいて歓迎されなかったり我慢できないような行動を見かけたり聞いたりしたら、以下の手順を踏んでください :
 
 *   Kindly but firmly explain that the behavior is unacceptable at WordPress events; if necessary, ask the person to leave. Do not shame them publicly, but also do not ignore the issue.
     *   The three part method of conflict resolution could come in handy here: “When you… I feel… Next time, please do this…”
