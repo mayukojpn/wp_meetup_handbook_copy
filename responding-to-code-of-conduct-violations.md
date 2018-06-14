@@ -1,13 +1,3 @@
-
-Attendees and community members can use the [Incident Reporting form](https://central.wordcamp.org/incident-report/) to report issues that come up with their local community organizers, to someone other than their local community organizers.
-
-Creating an inclusive environment is an ongoing process of gentle course correction. No one ever got everything right the first time they tried, but we all get better with each nudge in the right direction.
-
-**Note:** Very importantly, if the situation turns physically aggressive, violent, or otherwise dangerous, do not try to handle it yourself. Call the police if required.
-
-Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them.
-
-
 <!-- Responding to Code of Conduct Violations -->
 行動規範の違反への対応
 ========================================
@@ -31,17 +21,13 @@ Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/
 *   他の主催者と一緒にフォローアップするようにしてください。
 
 <!-- Attendees and community members can use the [Incident Reporting form](https://central.wordcamp.org/incident-report/) to report issues that come up with their local community organizers, to someone other than their local community organizers. -->
-
 出席者とコミニティーのメンバーは、地域コミュニティの主催者に提案する issues を ？ 報告するために[Incident Reporting form] (https://central.wordcamp.org/incident-report/) を使うことが出来ます。
 
 <!-- Creating an inclusive environment is an ongoing process of gentle course correction. No one ever got everything right the first time they tried, but we all get better with each nudge in the right direction. -->
-
 包括的な環境を作り出すことは、穏やかなコース修正の進行中のプロセスです。彼らが最初に試してみたときに、すべてのものが正しいものになったわけではありません。
 
 <!-- **Note:** Very importantly, if the situation turns physically aggressive, violent, or otherwise dangerous, do not try to handle it yourself. Call the police if required. -->
-
 **注釈:** 非常に重要なのは、状況が物理的に積極的、暴力的、あるいは危険なものに変わった場合は、それを自分で処理しないことです。必要に応じて警察に電話してください。
 
 <!-- Tip: Here is [a quiz](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/) on this article. Read [quizzes](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes) section of the welcome page if you have any questions about quizzes and how to navigate them. -->
-
 ヒント: この記事について[ひとつのクイズ](https://community-self-training.mystagingwebsite.com/quiz/responding-to-code-of-conduct-violations/)があります。クイズについてどのように回答すればよいかなどなにか質問があれば[クイズ](https://make.wordpress.org/community/handbook/meetup-organizer/welcome/#quizzes)を読んでください。
