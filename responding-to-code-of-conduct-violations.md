@@ -21,7 +21,7 @@
 *   他の主催者と一緒にフォローアップするようにしてください。
 
 <!-- Attendees and community members can use the [Incident Reporting form](https://central.wordcamp.org/incident-report/) to report issues that come up with their local community organizers, to someone other than their local community organizers. -->
-出席者とコミニティーのメンバーは、地域コミュニティの主催者に提案する issues を ？ 報告するために[Incident Reporting form] (https://central.wordcamp.org/incident-report/) を使うことが出来ます。
+出席者とコミニティーのメンバーは、地域コミュニティの主催者に提案する issues を ？ 報告するために [Incident Reporting form] (https://central.wordcamp.org/incident-report/) を使うことが出来ます。
 
 <!-- Creating an inclusive environment is an ongoing process of gentle course correction. No one ever got everything right the first time they tried, but we all get better with each nudge in the right direction. -->
 包括的な環境を作り出すことは、穏やかなコース修正の進行中のプロセスです。彼らが最初に試してみたときに、すべてのものが正しいものになったわけではありません。
