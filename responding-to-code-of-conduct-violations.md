@@ -1,9 +1,9 @@
 行動規範の違反への対応
 ========================================
 
-決して起こってほしくないことですが、時には主催者としてイベントにおける良くない言動に対応しなくてはなりません。もしイベントにおいて歓迎されなかったり我慢できないような行動を見かけたり聞いたりしたら、以下の手順を踏んでください :
+決して起こってほしくないことですが、時には主催者としてイベントにおける良くない言動に対応しなくてはなりません。もしイベントにおいて歓迎されなかったり我慢できないような言動を見かけたり聞いたりしたら、以下の手順を踏んでください :
 
-*   Kindly but firmly explain that the behavior is unacceptable at WordPress events; if necessary, ask the person to leave. Do not shame them publicly, but also do not ignore the issue.
+* 優しく、しかしきっぱりと、その言動が WordPress のイベントにとって受け入れられないものであることを説明しましょう。もし必要であれば、その人に出ていってもらうように頼みましょう。公然と非難せずに、また問題を無視しないでください。
     *   The three part method of conflict resolution could come in handy here: “When you… I feel… Next time, please do this…”
     *   Another handy option is to approach the situation as a reminder “Do not forget this is a family-friendly event. We do not do…. ”
     *   If all else fails, be calm but factual: “Remarks like that are against our code of conduct.”
