@@ -12,7 +12,7 @@
     *   Another handy option is to approach the situation as a reminder “Do not forget this is a family-friendly event. We do not do…. ”
     *   If all else fails, be calm but factual: “Remarks like that are against our code of conduct.”
 -->
-   * The three part method of conflict resolution could come in handy here: “When you… I feel… Next time, please do this…”
+   * The three part method of conflict resolution could come in handy here: 「あなたが … したとき、私は … と感じました。次は … してください」
    * 他のオプションとしては状況を思い出させるアプローチがあります 「これは family-friendly なイベントということを忘れないでください。私たちは … しないのです。」
    * 全てがうまくいかなかったら、冷静にしかしありのままに言いましょう 「それは我々の行動規範に反しているようです」
 <!-- *   Follow up with the person after the event with a little more explanation, and to thank them for being so willing to adjust (assuming of course that they did). -->
