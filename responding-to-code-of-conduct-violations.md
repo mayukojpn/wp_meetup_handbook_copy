@@ -7,7 +7,7 @@
    * The three part method of conflict resolution could come in handy here: “When you… I feel… Next time, please do this…”
    * 他のオプションとしては状況を思い出させるアプローチがあります 「これは family-friendly なイベントということを忘れないでください。私たちは … しないのです。」
    * 全てがうまくいかなかったら、冷静にしかしありのままに言いましょう 「それは我々の行動規範に反しているようです」
-* Follow up with the person after the event with a little more explanation, and to thank them for being so willing to adjust (assuming of course that they did).
+* イベント終了後にもう少し説明をしてフォローアップし、調整しようとしてくれていることに感謝しましょう（彼らがしたことに出しゃばったことに対して）。
 *   Make sure you follow up with the other organizers.
 
 Attendees and community members can use the [Incident Reporting form](https://central.wordcamp.org/incident-report/) to report issues that come up with their local community organizers, to someone other than their local community organizers.
